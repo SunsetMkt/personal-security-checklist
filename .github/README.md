@@ -265,10 +265,10 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/lukecarr">
-            <img src="https://avatars.githubusercontent.com/u/24438483?v=4" width="80;" alt="lukecarr"/>
+        <a href="https://github.com/101lols">
+            <img src="https://avatars.githubusercontent.com/u/29000894?v=4" width="80;" alt="101lols"/>
             <br />
-            <sub><b>Luke Carr</b></sub>
+            <sub><b>101lols</b></sub>
         </a>
     </td>
     <td align="center">
@@ -466,13 +466,6 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/101lols">
-            <img src="https://avatars.githubusercontent.com/u/29000894?v=4" width="80;" alt="101lols"/>
-            <br />
-            <sub><b>101lols</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/boushley">
             <img src="https://avatars.githubusercontent.com/u/101239?v=4" width="80;" alt="boushley"/>
             <br />
@@ -494,14 +487,6 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/andydonzelli">
-            <img src="https://avatars.githubusercontent.com/u/6990701?v=4" width="80;" alt="andydonzelli"/>
-            <br />
-            <sub><b>Andy Donzelli</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/austinhuang0131">
             <img src="https://avatars.githubusercontent.com/u/16656689?v=4" width="80;" alt="austinhuang0131"/>
             <br />
@@ -514,7 +499,8 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Ben Thul</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BBlackwo">
             <img src="https://avatars.githubusercontent.com/u/7598058?v=4" width="80;" alt="BBlackwo"/>
@@ -542,8 +528,7 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>DaShoe</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/danielgtaylor">
             <img src="https://avatars.githubusercontent.com/u/106826?v=4" width="80;" alt="danielgtaylor"/>
@@ -557,7 +542,8 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Dimitris Lazarakis</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/VoDmAl">
             <img src="https://avatars.githubusercontent.com/u/248879?v=4" width="80;" alt="VoDmAl"/>
@@ -585,8 +571,7 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Florian Kohrt</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/freddy-m">
             <img src="https://avatars.githubusercontent.com/u/25013506?v=4" width="80;" alt="freddy-m"/>
@@ -600,7 +585,8 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Hwanhee Chae</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jneplokh">
             <img src="https://avatars.githubusercontent.com/u/46184597?v=4" width="80;" alt="jneplokh"/>
@@ -628,8 +614,7 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Jess</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/openjck">
             <img src="https://avatars.githubusercontent.com/u/933396?v=4" width="80;" alt="openjck"/>
@@ -643,7 +628,8 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Juergen Edelbluth</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/fetzu">
             <img src="https://avatars.githubusercontent.com/u/6372605?v=4" width="80;" alt="fetzu"/>
@@ -671,13 +657,19 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Dominik Piątkowski</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/leon-costa">
             <img src="https://avatars.githubusercontent.com/u/83498565?v=4" width="80;" alt="leon-costa"/>
             <br />
             <sub><b>Leon Costa</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lukecarr">
+            <img src="https://avatars.githubusercontent.com/u/24438483?v=4" width="80;" alt="lukecarr"/>
+            <br />
+            <sub><b>Luke Carr</b></sub>
         </a>
     </td></tr>
 </table>
